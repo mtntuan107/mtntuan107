@@ -1,4 +1,4 @@
-<h3 align="center">A developer from Vietnam</h3>
+<h3 align="center">A developer from a fishing village in Vietnam</h3>
 
 - 🌱 I’m currently learning **ReactJS, JS**
 
