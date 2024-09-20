@@ -1,5 +1,7 @@
 <h3 align="center">A developer from a fishing village in Vietnam</h3>
 
+- Fullname: Mai Trần Nhật Tuấn
+
 - 🌱 I’m currently learning **ReactJS, JS**
 
 - 📫 How to reach me **mtntuan.107@gmail.com**
