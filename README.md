@@ -1,4 +1,4 @@
-<h3 align="center">A developer from a fishing village in Vietnam</h3>
+<h3 align="center">“🐠 I am like a tiny fish in the ocean of knowledge, and this ocean is vast beyond measure. 🌊”</h3>
 
 - 🐳 Fullname: Mai Trần Nhật Tuấn
 
