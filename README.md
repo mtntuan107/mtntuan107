@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **mtntuan.107@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mai-tr%E1%BA%A7n-nh%E1%BA%ADt-tu%E1%BA%A5n-081664325/](https://www.linkedin.com/in/mai-tr%E1%BA%A7n-nh%E1%BA%ADt-tu%E1%BA%A5n-081664325/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mtntuan107/](https://www.linkedin.com/in/mtntuan107/)
 
 
 <h3 align="left">Languages and Tools:</h3>
