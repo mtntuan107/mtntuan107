@@ -2,7 +2,7 @@
 
 - 🐳 Fullname: Mai Trần Nhật Tuấn
 
-- 🌱 I’m currently learning **ReactJS, JS**
+- 🌱 I’m currently learning **Angular, JS**
 
 - 📫 How to reach me **mtntuan.107@gmail.com**
 
