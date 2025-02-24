@@ -1,4 +1,4 @@
-<h3 align="center">“🐠 I am like a tiny fish in the ocean of knowledge, and this ocean is vast beyond measure. 🌊”</h3>
+<h3 align="center">“I'm dev”</h3>
 
 - 🐳 Fullname: Mai Trần Nhật Tuấn
 
