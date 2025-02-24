@@ -2,8 +2,6 @@
 
 - 🐳 Fullname: Mai Trần Nhật Tuấn
 
-- 🌱 I’m currently learning **Angular, Spring Boot**
-
 - 📫 How to reach me **mtntuan.107@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mtntuan107/](https://www.linkedin.com/in/mtntuan107/)
@@ -17,6 +15,9 @@
 </p>
 <h4 align="left">Framework:</h4>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" width="40" height="40"/>
+</a>
 <h4 align="left">Database:</h4>
 <p><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
